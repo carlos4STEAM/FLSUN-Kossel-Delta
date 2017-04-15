@@ -8,8 +8,7 @@ Example: G91 followed by G1 Z-100 -> Effector moves down 100mm from current posi
 
 ### M502 - Load default values stored in EEPROM.
 
-### M665 H(z-Height) R(delta Radius) XYZ (Radius corrections) D(Diagonal rod)
-S(Segments per seconds)
+### M665 H(z-Height) R(delta Radius) XYZ (Radius corrections) D(Diagonal rod) S(Segments per seconds)
 
 ### M666 X Y Z(end-stops)
 
