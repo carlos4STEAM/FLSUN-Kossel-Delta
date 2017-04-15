@@ -4,6 +4,10 @@ Example: G90 followed by G1 Z10 -> Effector moves down to 10mm above your Z-min.
 ### G91 - Relative motion of effector.
 Example: G91 followed by G1 Z-100 -> Effector moves down 100mm from current position.
 
+### M500 - Save current configuration to EEPROM.
+
+### M502 - Load default values stored in EEPROM.
+
 ### M665 H(z-Height) R(delta Radius) XYZ (Radius corrections) D(Diagonal rod)
 S(Segments per seconds)
 
