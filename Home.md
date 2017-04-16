@@ -8,6 +8,6 @@ The wiki is maintained by Chin Ming Keat and Maxim Riabichev.
 
 A huge shout out to Luc Van Daele who's PDF has been a source for a lot of information on this wiki!
 
-If you want to pitch in, or if you find mistakes or stupid advice etc, do not hesitate to contact either me or Chin via Facebook.
+If you want to pitch in, or if you find mistakes, stupid advice or "alternative facts", do not hesitate to contact either me or Chin via Facebook.
 
 Thanks and have fun!
