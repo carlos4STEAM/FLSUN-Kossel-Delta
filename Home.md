@@ -1,10 +1,10 @@
 # Welcome to the FLSun Kossel Mini 3d printer wiki.
 
-This wiki complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW). 
+This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW). 
 
 Please do join us if you own or thinking to purchase an FLSun 3d printer.
 
-This page is maintained by Chin Ming Keat and Maxim Riabichev.
+The wiki is maintained by Chin Ming Keat and Maxim Riabichev.
 
 A huge shout out to Luc Van Daele who's PDF has been a source for a lot of information on this wiki!
 
