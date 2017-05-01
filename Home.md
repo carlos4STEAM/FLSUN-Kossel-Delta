@@ -1,5 +1,7 @@
 # Welcome to the FLSun Kossel Mini 3d printer wiki.
 
+#### Currently this wiki is updated for version 5 of Malin-AC.
+
 This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW). 
 
 Please do join us if you own or thinking to purchase an FLSun 3d printer.
