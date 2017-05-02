@@ -13,3 +13,8 @@ A huge shout out to Luc Van Daele who's PDF has been a source for a lot of infor
 If you want to pitch in, or if you find mistakes, stupid advice or "alternative facts", do not hesitate to contact either me or Chin via Facebook.
 
 Thanks and have fun!
+
+#### Huge thanks to the contributors
+**Luc Van Daele**
+**Trex Izmereniyax**
+**Steve Hennerley**
