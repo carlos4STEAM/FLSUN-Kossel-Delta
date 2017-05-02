@@ -15,6 +15,6 @@ If you want to pitch in, or if you find mistakes, stupid advice or "alternative 
 Thanks and have fun!
 
 #### Huge thanks to the contributors
-**Luc Van Daele**
-**Trex Izmereniyax**
-**Steve Hennerley**
+**Luc Van Daele**  
+**Trex Izmereniyax**  
+**Steve Hennerley**  
