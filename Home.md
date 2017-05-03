@@ -2,7 +2,8 @@
 
 #### Currently this wiki is updated for version 5 of Malin-AC.
 
-This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW). It is not an affiliate of the FLSun company in any way. It is run solely by hobbyists and/or nerds.
+This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW).  
+It is not an affiliate of the FLSun company in any way. It is run solely by hobbyists and/or nerds.
 
 Please do join us if you own or thinking to purchase an FLSun 3d printer.
 
