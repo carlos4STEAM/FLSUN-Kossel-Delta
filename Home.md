@@ -4,7 +4,7 @@
 
 This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW).  
 It is **not** an affiliate of the FLSun company in any way. It is run solely by hobbyists and/or nerds.  
-To get in contact with FLSun representatives, click [here](http://i.imgur.com/8VpFz47.png).
+To get in contact with FLSun representatives, click [here](http://i.imgur.com/8VpFz47.png) for their contact information.
 
 Please do join us if you own or thinking to purchase an FLSun 3d printer.
 
