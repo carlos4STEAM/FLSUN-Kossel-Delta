@@ -2,13 +2,11 @@
 
 #### Currently this wiki is updated for version 5 of Malin-AC.
 
-This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW). 
+This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW). It is not an affiliate of the FLSun company in any way. It is run solely by hobbyists and/or nerds.
 
 Please do join us if you own or thinking to purchase an FLSun 3d printer.
 
-The wiki is maintained by Chin Ming Keat and Maxim Riabichev.
-
-A huge shout out to Luc Van Daele who's PDF has been a source for a lot of information on this wiki!
+This wiki is maintained by Chin Ming Keat and Maxim Riabichev.
 
 If you want to pitch in, or if you find mistakes, stupid advice or "alternative facts", do not hesitate to contact either me or Chin via Facebook.
 
