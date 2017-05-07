@@ -3,6 +3,7 @@ This wiki is maintained by Chin Ming Keat and Maxim Riabichev.
 
 
 #### Currently this wiki is up to date with the latest version of Marlin: bugfix-1.1.x
+[Link!](https://github.com/MarlinFirmware/Marlin)
 
 This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW).  
 
