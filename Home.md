@@ -1,8 +1,7 @@
 # Welcome to the FLSun Kossel Mini 3d printer wiki.
-This wiki is maintained by Maxim Riabichev.
+_This wiki is maintained by Maxim Riabichev_
 
-
-#### Currently this wiki is up to date with the latest version of Marlin: bugfix-1.1.x
+#### This wiki is currently up to date with the latest version of Marlin: bugfix-1.1.x
 [Link!](https://github.com/MarlinFirmware/Marlin)
 
 This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW).  
