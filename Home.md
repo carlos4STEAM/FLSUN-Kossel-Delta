@@ -2,7 +2,7 @@
 This wiki is maintained by Chin Ming Keat and Maxim Riabichev.
 
 
-#### Currently this wiki is updated for version 5 of Malin-AC.
+#### Currently this wiki is updated for the latest version of Marlin: bugfix-1.1.x
 
 This wiki is complementary to the [FLSun 3d Printers group on Facebook](https://goo.gl/hBH9zW).  
 
