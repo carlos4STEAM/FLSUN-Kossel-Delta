@@ -4,7 +4,7 @@ _This wiki is maintained by Maxim Riabichev_
 #### Currently up to date with the Luc Van Daele branch of Marlin; [Marlin-AC](https://github.com/LVD-AC/Marlin-AC) and for the delta with these print dimensions:
 **Height:**  315 mm  
 **Width (diameter):** 180 mm  
-**Print bed diameter:** 220 mm  
+**Print bed (diameter):** 220 mm  
 
 If your delta printer has other dimensions, you will have to modify the sample configuration files (mentioned in the wiki) to match your printer.  
 
