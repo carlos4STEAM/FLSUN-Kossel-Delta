@@ -6,8 +6,7 @@ _This wiki is maintained by Maxim Riabichev_
 **Width:**  
 **Print bed diameter:** 220 mm  
 
-If your delta printer has other dimensions, you will have to modify the sample configuration files to match your printer.  
-
+If your delta printer has other dimensions, you will have to modify the sample configuration files (mentioned in the wiki) to match your printer.  
 This wiki is complementary to the [FLSun 3D Printers group on Facebook](https://goo.gl/hBH9zW).  
 
 It is **not** endorsed, or maintained by, the FLSun company in any way. It is run solely by hobbyists and/or nerds.  
