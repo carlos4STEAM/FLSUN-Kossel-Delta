@@ -1,4 +1,4 @@
-# Welcome to the FLSun Kossel Mini 3d printer wiki.
+# Welcome to the FLSun Kossel Mini 3D printer wiki.
 _This wiki is maintained by Maxim Riabichev_
 
 #### Currently up to date with the Luc Van Daele branch of Marlin; [Marlin-AC](https://github.com/LVD-AC/Marlin-AC) and for the delta with these dimensions:
