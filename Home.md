@@ -5,7 +5,7 @@ _This wiki is maintained by Maxim Riabichev_
 **Height:**  315 mm  
 **Print bed (diameter):** 180mm and 240mm
 
-If your delta printer has other dimensions, you will have to modify the sample configuration files (mentioned in the wiki) to match your printer.  
+If your delta printer has other dimensions, you will have to modify the sample configuration files (mentioned in this wiki) to match your printer.  
 
 This wiki is complementary to the [FLSun 3D Printers group on Facebook](https://goo.gl/hBH9zW).  
 
